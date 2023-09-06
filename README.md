@@ -1,4 +1,4 @@
-# Digits-Classification-using-Deep-Learning
+# Digits-Classification-using-MLP
 
 
 # MNIST Digit Classification using Sequential Neural Network with Keras
