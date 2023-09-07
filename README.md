@@ -3,7 +3,7 @@
 
 # MNIST Digit Classification using Sequential Neural Network with Keras
 
-This repository showcases the implementation of a Sequential Neural Network (SNN) using Keras for the task of MNIST digit classification. The MNIST dataset is a well-known benchmark in the field of machine learning and computer vision, consisting of 60,000 training images and 10,000 testing images of handwritten digits from 0 to 9. The goal of this project is to demonstrate the training process and the achieved accuracies of the SNN on this dataset.
+This repository showcases the implementation of a Sequential Neural Network (SNN) using Keras and TensorBoard(for Visualization) for the task of MNIST digit classification. The MNIST dataset is a well-known benchmark in the field of machine learning and computer vision, consisting of 60,000 training images and 10,000 testing images of handwritten digits from 0 to 9. The goal of this project is to demonstrate the training process and the achieved accuracies of the SNN on this dataset.
 
 ## Installation
 
